@@ -18,4 +18,3 @@ def update_on_delete(sender, instance, **kwargs):
     Update order total on line item deleted
     """
     instance.order.update_total()
-    
