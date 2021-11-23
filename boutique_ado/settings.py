@@ -28,7 +28,6 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['cod-boutique.herokuapp.com', 'localhost']
 
-
 # Application definition
 
 INSTALLED_APPS = [
